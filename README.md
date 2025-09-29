@@ -21,5 +21,13 @@ Our analysis revealed several key drivers of customer churn:
 * **Contract Type:** Customers on a **month-to-month contract** are significantly more likely to leave than those on one or two-year contracts.
 * **Internet Service:** Customers with **fiber optic internet** showed a higher churn rate, suggesting potential issues with price or service quality.
 * **Tenure:** Newer customers with a **short tenure** are at the highest risk.
+<br>
+<img width="613" height="455" alt="image" src="https://github.com/user-attachments/assets/0be91aea-09d1-4e86-8d6e-ee9373ca5c98" />
+<img width="628" height="465" alt="image" src="https://github.com/user-attachments/assets/88149e6b-6817-443d-9c07-e44401e84f01" />
+<img width="602" height="464" alt="image" src="https://github.com/user-attachments/assets/83543243-6574-42ac-b9e4-95a7cf97c24f" />
 
+<br>
 The final outcome is a predictive model (XGBoost) that can identify at-risk customers with over **80% accuracy**. This model provides the business with a powerful tool to focus its retention efforts, such as offering loyal discounts or targeted support, to the customers who need it most.
+<br>
+<img width="411" height="194" alt="image" src="https://github.com/user-attachments/assets/956d7d00-7735-4fda-9b70-45cc928c93bb" />
+
